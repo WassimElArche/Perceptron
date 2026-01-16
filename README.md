@@ -1,5 +1,5 @@
-==================================================
-                PROJET PERCEPTRON
+
+PROJET PERCEPTRON
 
 PROJET REALISÉ EN 3 JOURS
 
